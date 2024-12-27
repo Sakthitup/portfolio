@@ -1881,8 +1881,4 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-.pass_photo
-{
-  object-fit: cover;
-  height: 130px;
-}
+
